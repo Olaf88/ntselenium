@@ -1,2 +1,0 @@
-# ntselenium
-change offer link
